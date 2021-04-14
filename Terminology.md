@@ -1,5 +1,4 @@
----
-# 网络术语整理
+## 网络术语整理
 ---
 ## **Active Nomination 活跃提名**
 在当前 era 中，提名人正在活跃地验证的一个或多个验证人。提名人将自己的 stake 放在这个 era 的验证人的手中，并有可能因此获得利益的回报。
@@ -57,7 +56,7 @@ Substrate 提供的 pallet 的集合（Substrate Runtime Modules）。
 ## **Governance Council 治理理事会**
 一个由多个链上帐户组成的链上实体（最初是 6 个席位，最终增加到 24 个席位)。理事会可以充当 “被动”（未投票）利益相关者的代表。理事会成员有两项主要任务：为全体利益相关者团体投票进行全民公投，并取消恶意的全民公投。
 ## **GRANDPA Finality Gadget - GRANDPA 终结工具**
-即 GHOST-based Recursive ANcestor Deriving Prefix Agreement。这是 Polkadot 的终结工具，它允许对区块链进行异步、负责和安全的终结。有关 GRANDPA 的概述，请参见以下 Medium 文章：<a href="https://medium.com/polkadot-network/polkadot-proof-of-concept-3-a-better-consensus-algorithm-e81c380a2372" >https://medium.com/polkadot-network/polkadot-proof-of-concept-3-a-better-consensus-algorithm-e81c380a2372</a>[3]。
+即 GHOST-based Recursive ANcestor Deriving Prefix Agreement。这是 Polkadot 的终结工具，它允许对区块链进行异步、负责和安全的终结。有关 GRANDPA 的概述，请参见以下 Medium 文章：[https://medium.com/polkadot-network/polkadot-proof-of-concept-3-a-better-consensus-algorithm-e81c380a2372](https://medium.com/polkadot-network/polkadot-proof-of-concept-3-a-better-consensus-algorithm-e81c380a2372)。
 ## **Hard Fork 硬分叉**
 区块链的永久性分流，可以通过共识规则中的高优先级更改快速发生。遵循硬分叉的客户端始终需要升级其客户端，才能继续遵循已升级的链。硬分叉被认为是链的永久性分歧，未升级的客户端所遵循的共识规则与升级的客户端所遵循的共识规则不兼容。
 ## **Hard Spoon 硬汤匙**
@@ -75,7 +74,7 @@ Kusama 网络代币的缩写。
 ## **Kusama**
 Polkadot 的 “金丝雀网络”。它由 Polkadot 软件的未经发布的早期版本构成。它不是测试网 —— 在过渡到 NPoS 之后，该网络完全掌握在社区手中（即 Kusama 代币持有者）。
 ## **LIBP2P**
-一个开放源代码库，用于进行加密的对等通信和其他网络功能。更多相关信息请访问：https://libp2p.io/[5]。
+一个开放源代码库，用于进行加密的对等通信和其他网络功能。更多相关信息请访问：[https://libp2p.io/](https://libp2p.io/)。
 ## **Liveness 活跃性**
 一种分布式系统的属性，即其最终将达到某种共识。陷入无限循环的系统被认为是非活跃的，即使计算仍在进行。最终提供结果的系统，即使结果不正确或花费很长时间才得出，也被认为具有活跃性。
 ## **Message 消息**
